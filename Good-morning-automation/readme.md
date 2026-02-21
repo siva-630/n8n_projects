@@ -1,1 +1,1 @@
-![](./gm-sc.png) ![email](./email.jpeg)
+![](./gm-sc.png) ![email](./image.png)
